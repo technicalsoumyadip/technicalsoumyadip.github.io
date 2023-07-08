@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>markdown on LinuxWay - Mastering Linux</title>
-    <link>https://linuxway.in/tags/markdown/</link>
+    <link>http://127.0.0.1/tags/markdown/</link>
     <description>Recent content in markdown on LinuxWay - Mastering Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 13 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://linuxway.in/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://127.0.0.1/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Placeholder Text</title>
-      <link>https://linuxway.in/blog/placeholder-text/</link>
+      <link>http://127.0.0.1/blog/placeholder-text/</link>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://linuxway.in/blog/placeholder-text/</guid>
+      <guid>http://127.0.0.1/blog/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
