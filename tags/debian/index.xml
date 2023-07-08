@@ -8,10 +8,10 @@
     <lastBuildDate>Sat, 08 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://linuxway.in/tags/debian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Get started in Linux-1</title>
-      <link>https://linuxway.in/blog/placeholder-text/</link>
+      <link>https://linuxway.in/blog/get-started-in-linux-1/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://linuxway.in/blog/placeholder-text/</guid>
+      <guid>https://linuxway.in/blog/get-started-in-linux-1/</guid>
       <description>This is the first part of my getting started in linux series. This series is specially made for Linux beginners. The information in this series can be applied to any Linux distribution based on Ubuntu and Debian, like, Linux Mint, PopOs, ZorinOS, Linux Mint Debian Edition, etc. Here, I am going to use ZorinOS for this series. Here, I am going to show you At first, you have get the ISO file.</description>
     </item>
     
