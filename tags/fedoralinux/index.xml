@@ -12,7 +12,7 @@
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://linuxway.in/blog/get-started-in-linux-1/</guid>
-      <description>This is the first part of my getting started in linux series. This series is specially made for Linux beginners. The information in this series can be applied to any Linux distribution based on Ubuntu and Debian, like, Linux Mint, PopOs, ZorinOS, Linux Mint Debian Edition, etc. Here, I am going to use ZorinOS for this series. Here, I am going to show you At first, you have get the ISO file.</description>
+      <description>This is the first part of my getting started in linux series. This series is specially made for Linux beginners. The information in this series can be applied to any Linux distribution based on Ubuntu and Debian, like, ZorinOS, Linux Mint, Linux Mint Debian Edition, PopOs, etc. Here, I am going to use ZorinOS for this series. Here, I am going to show you how to make a bootable usb stick of ZorinOS.</description>
     </item>
     
   </channel>
