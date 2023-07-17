@@ -286,24 +286,33 @@ At first, you have get the ISO file.</p>
   </article>
 
   <div id="disqus_thread"></div>
-  <script>
-    
-
-    
-    var disqus_config = function () {
+<script>
+  var disqus_config = function () {
     this.page.url = "https:\/\/linuxway.in\/";  
     this.page.identifier = "Get started in Linux-1"; 
     };
-    (function() { 
+  function loadDisqus() {
     var d = document, s = d.createElement('script');
     s.src = 'https://linuxway.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
-    })();
+  }
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-    window.addEventListener('load', loadDisqus);
-	  </script>
-	  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<button id="load-comments-button" style="display: block; margin: 0 auto; font-size: 30px;">Show Comments</button>
+
+<script>
+  var loadButton = document.getElementById('load-comments-button');
+  if (loadButton) {
+    loadButton.addEventListener('click', function () {
+      loadButton.style.display = 'none'; 
+
+      
+      loadDisqus();
+    });
+  }
+</script>
 <div class="px-2 mb-2">
   
   <script src="https://giscus.app/client.js"
@@ -329,6 +338,14 @@ At first, you have get the ISO file.</p>
 	margin-left: auto;
         margin-right: auto;
     }
+    @media (max-width: 767px) {
+     
+    #disqus_thread {
+      width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
 </style><div class="bg-green-300 dark:bg-gray-900">
   <div class="container px-4 py-12 mx-auto max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
     <div>
